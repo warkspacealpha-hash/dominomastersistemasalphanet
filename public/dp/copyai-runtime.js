@@ -1,4 +1,34 @@
 (() => {
+  // Origin-backend network guard (defense-in-depth; primary enforcement is
+  // CSP connect-src 'self' in the app shell). Blocks any fetch/WebSocket to the
+  // source site's ORIGINAL backend project. The mirror must never talk to it;
+  // a fresh owner-controlled backend will replace these endpoints.
+  const ORIGIN_BACKEND_RE = /kwxhvnzgfkjlpbqqqaqh\.supabase\.co/;
+  const isBlockedUrl = (u) => {
+    try { return ORIGIN_BACKEND_RE.test(String(u)); } catch { return false; }
+  };
+  try {
+    if (typeof window.fetch === 'function') {
+      const origFetch = window.fetch.bind(window);
+      window.fetch = (input, init) => {
+        const url = typeof input === 'string' ? input : (input && input.url);
+        if (isBlockedUrl(url)) return Promise.reject(new Error('[dominomaster] blocked call to origin backend'));
+        return origFetch(input, init);
+      };
+    }
+  } catch {}
+  try {
+    const OrigWS = window.WebSocket;
+    if (OrigWS) {
+      const GuardedWS = function (url, protocols) {
+        if (isBlockedUrl(url)) throw new Error('[dominomaster] blocked websocket to origin backend');
+        return protocols ? new OrigWS(url, protocols) : new OrigWS(url);
+      };
+      GuardedWS.prototype = OrigWS.prototype;
+      window.WebSocket = GuardedWS;
+    }
+  } catch {}
+
   // Destinos externos de comunicação/checkout foram neutralizados na captura.
   // O bloqueio em capture phase impede que scripts first-party reativem o URL original
   // por addEventListener/window.open depois que o HTML já foi reconstruído.
@@ -138,7 +168,7 @@
     const raw=[h?.getAttribute('data-theme'),b?.getAttribute('data-theme'),h?.className,b?.className].join(' ').toLowerCase();
     if(/(?:^|s|[-_])dark(?:s|$|[-_])/.test(raw))return'dark';
     if(/(?:^|s|[-_])light(?:s|$|[-_])/.test(raw))return'light';
-    try{const c=getComputedStyle(b||h).backgroundColor,m=c.match(/rgba?((d+)[, ]+(d+)[, ]+(d+)/);if(m){const y=.2126*+m[1]+.7152*+m[2]+.0722*+m[3];return y<128?'dark':'light'}}catch{}
+    try{const c=getComputedStyle(b||h).backgroundColor,m=c.match(/rgba?\((\d+)[, ]+(\d+)[, ]+(\d+)/);if(m){const y=.2126*+m[1]+.7152*+m[2]+.0722*+m[3];return y<128?'dark':'light'}}catch{}
     return'light';
   };
   const applyThemeAssets=()=>{

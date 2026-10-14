@@ -85,6 +85,10 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { property: "og:description", content: "Dominó Play — Jogue dominó online" },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
+      {
+        "http-equiv": "Content-Security-Policy",
+        content: "connect-src 'self'",
+      },
     ],
     links: [
       {
