@@ -12,8 +12,9 @@ export function CapturedPage({ base }: { base: string }) {
 
   useEffect(() => {
     let cancelled = false;
-    const host = hostRef.current;
-    if (!host) return;
+    const hostEl = hostRef.current;
+    if (!hostEl) return;
+    const host: HTMLDivElement = hostEl;
     const cssLinks: HTMLLinkElement[] = [];
 
     async function run() {
@@ -41,7 +42,7 @@ export function CapturedPage({ base }: { base: string }) {
           const link = document.createElement("link");
           link.rel = "stylesheet";
           link.href = `${base}/styles.css`;
-          link.dataset.capturedPage = base;
+          link.dataset["capturedPage"] = base;
           document.head.appendChild(link);
           cssLinks.push(link);
         }
