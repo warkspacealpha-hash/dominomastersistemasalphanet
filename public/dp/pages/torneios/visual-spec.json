@@ -1,0 +1,202 @@
+{
+  "capturedAt": "2026-10-13T22:01:00.773Z",
+  "designTokens": {
+    "colors": [
+      {
+        "count": 2,
+        "value": "oklch(0.27 0.05 250)"
+      },
+      {
+        "count": 1,
+        "value": "oklch(1 0 0)"
+      }
+    ],
+    "fonts": [
+      {
+        "count": 3,
+        "value": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif"
+      }
+    ],
+    "mediaQueries": [
+      "(prefers-reduced-motion: reduce)",
+      "(prefers-contrast: high)",
+      "(hover: none) and (pointer: coarse)",
+      "(max-width: 600px)",
+      "(prefers-reduced-motion)"
+    ]
+  },
+  "document": {
+    "height": 775,
+    "width": 1585
+  },
+  "elements": [
+    {
+      "classes": [
+        "wood-frame",
+        "mx-3",
+        "mt-3",
+        "rounded-2xl",
+        "px-5",
+        "py-4",
+        "flex",
+        "items-center"
+      ],
+      "id": "",
+      "index": 0,
+      "rect": {
+        "height": 62,
+        "width": 1561,
+        "x": 12,
+        "y": 22
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(1 0 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklch(0.91 0.008 230)",
+        "borderRadius": "20px",
+        "boxShadow": "oklch(0.27 0.05 250 / 0.06) 0px 1px 2px 0px, oklch(0.27 0.05 250 / 0.08) 0px 8px 24px 0px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "12px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "12px",
+          "12px",
+          "0px",
+          "12px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "16px",
+          "20px",
+          "16px",
+          "20px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "header",
+      "text": "TORNEIOS VIP"
+    },
+    {
+      "classes": [
+        "text-xl",
+        "font-black",
+        "tracking-tight",
+        "gold-text"
+      ],
+      "id": "",
+      "index": 1,
+      "rect": {
+        "height": 28,
+        "width": 137,
+        "x": 65,
+        "y": 39
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "linear-gradient(120deg, oklch(0.62 0.12 78), oklch(0.55 0.11 75), oklch(0.62 0.12 78))",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "900",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "letterSpacing": "-0.5px",
+        "lineHeight": "28px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "h1",
+      "text": "TORNEIOS VIP"
+    },
+    {
+      "classes": [
+        "flex-1",
+        "px-4",
+        "py-6",
+        "w-full",
+        "max-w-md",
+        "mx-auto",
+        "flex",
+        "flex-col"
+      ],
+      "id": "",
+      "index": 2,
+      "rect": {
+        "height": 691,
+        "width": 448,
+        "x": 569,
+        "y": 84
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "16px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "568.5px",
+          "0px",
+          "568.5px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "24px",
+          "16px",
+          "24px",
+          "16px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "main",
+      "text": "Torneios eliminatórios exclusivos para assinantes VIP. Nunca há prêmios em dinheiro — a recompensa é a glória, o troféu no perfil e Play Coins. Nenhum torneio aberto no momento Os "
+    }
+  ],
+  "title": "Torneios VIP — DOMINÓ PLAY",
+  "url": "https://dominoplay.lovable.app/torneios",
+  "viewport": {
+    "dpr": 1,
+    "height": 765,
+    "width": 1600
+  }
+}

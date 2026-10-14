@@ -1,0 +1,652 @@
+{
+  "capturedAt": "2026-10-13T22:07:29.770Z",
+  "designTokens": {
+    "colors": [
+      {
+        "count": 10,
+        "value": "oklch(0.27 0.05 250)"
+      },
+      {
+        "count": 6,
+        "value": "oklab(1 0 0 / 0.8)"
+      },
+      {
+        "count": 2,
+        "value": "oklch(0.968 0.005 240)"
+      },
+      {
+        "count": 1,
+        "value": "oklch(1 0 0)"
+      },
+      {
+        "count": 1,
+        "value": "oklch(0.45 0.08 165)"
+      }
+    ],
+    "fonts": [
+      {
+        "count": 11,
+        "value": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif"
+      }
+    ],
+    "mediaQueries": [
+      "(prefers-reduced-motion: reduce)",
+      "(prefers-contrast: high)",
+      "(hover: none) and (pointer: coarse)",
+      "(max-width: 600px)",
+      "(prefers-reduced-motion)"
+    ]
+  },
+  "document": {
+    "height": 765,
+    "width": 1600
+  },
+  "elements": [
+    {
+      "classes": [
+        "mx-auto",
+        "max-w-md",
+        "px-4",
+        "py-5",
+        "flex",
+        "flex-col",
+        "gap-4"
+      ],
+      "id": "",
+      "index": 0,
+      "rect": {
+        "height": 588,
+        "width": 448,
+        "x": 576,
+        "y": 0
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "16px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "576px",
+          "0px",
+          "576px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "20px",
+          "16px",
+          "20px",
+          "16px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "main",
+      "text": "Perfil do jogador Convidado 000022 Jogando desde 13/10/2026 Adicionar amigo Bloquear Denunciar Rating 1500 Liga Ouro Partidas 0 Vitórias 0 Competitivo V/D/E 0/0/0 Torneios jogados "
+    },
+    {
+      "classes": [
+        "text-lg",
+        "font-black",
+        "text-foreground"
+      ],
+      "id": "",
+      "index": 1,
+      "rect": {
+        "height": 28,
+        "width": 149,
+        "x": 624,
+        "y": 20
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "block",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "900",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "28px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "h1",
+      "text": "Perfil do jogador"
+    },
+    {
+      "classes": [
+        "inline-flex",
+        "items-center",
+        "justify-center",
+        "gap-2",
+        "whitespace-nowrap",
+        "rounded-md",
+        "text-sm",
+        "font-medium"
+      ],
+      "id": "",
+      "index": 2,
+      "rect": {
+        "height": 36,
+        "width": 416,
+        "x": 592,
+        "y": 154
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(0.45 0.08 165)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "10px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+        "color": "oklch(1 0 0)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "8px",
+        "justifyContent": "center",
+        "letterSpacing": "normal",
+        "lineHeight": "20px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "8px",
+          "16px",
+          "8px",
+          "16px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "button",
+      "text": "Adicionar amigo"
+    },
+    {
+      "classes": [
+        "inline-flex",
+        "items-center",
+        "justify-center",
+        "gap-2",
+        "whitespace-nowrap",
+        "rounded-md",
+        "text-sm",
+        "font-medium"
+      ],
+      "id": "",
+      "index": 3,
+      "rect": {
+        "height": 36,
+        "width": 204,
+        "x": 592,
+        "y": 198
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(0.968 0.005 240)",
+        "backgroundImage": "none",
+        "border": "1px solid oklch(0.53 0.025 235)",
+        "borderRadius": "10px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "8px",
+        "justifyContent": "center",
+        "letterSpacing": "normal",
+        "lineHeight": "20px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "8px",
+          "16px",
+          "8px",
+          "16px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "button",
+      "text": "Bloquear"
+    },
+    {
+      "classes": [
+        "inline-flex",
+        "items-center",
+        "justify-center",
+        "gap-2",
+        "whitespace-nowrap",
+        "rounded-md",
+        "text-sm",
+        "font-medium"
+      ],
+      "id": "",
+      "index": 4,
+      "rect": {
+        "height": 36,
+        "width": 204,
+        "x": 804,
+        "y": 198
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(0.968 0.005 240)",
+        "backgroundImage": "none",
+        "border": "1px solid oklch(0.53 0.025 235)",
+        "borderRadius": "10px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "gap": "8px",
+        "justifyContent": "center",
+        "letterSpacing": "normal",
+        "lineHeight": "20px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "8px",
+          "16px",
+          "8px",
+          "16px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "button",
+      "text": "Denunciar"
+    },
+    {
+      "classes": [
+        "rounded-lg",
+        "bg-card/80",
+        "border",
+        "border-border/60",
+        "px-3",
+        "py-2.5",
+        "flex",
+        "flex-col"
+      ],
+      "id": "",
+      "index": 5,
+      "rect": {
+        "height": 63,
+        "width": 204,
+        "x": 592,
+        "y": 250
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "oklab(1 0 0 / 0.8)",
+        "backgroundImage": "none",
+        "border": "1px solid oklab(0.91 -0.0051423 -0.00612836 / 0.6)",
+        "borderRadius": "12px",
+        "boxShadow": "none",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "2px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "10px",
+          "12px",
+          "10px",
+          "12px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "div",
+      "text": "Rating 1500"
+    },
+    {
+      "classes": [
+        "rounded-lg",
+        "bg-card/80",
+        "border",
+        "border-border/60",
+        "px-3",
+        "py-2.5",
+        "flex",
+        "flex-col"
+      ],
+      "id": "",
+      "index": 6,
+      "rect": {
+        "height": 63,
+        "width": 204,
+        "x": 804,
+        "y": 250
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "oklab(1 0 0 / 0.8)",
+        "backgroundImage": "none",
+        "border": "1px solid oklab(0.91 -0.0051423 -0.00612836 / 0.6)",
+        "borderRadius": "12px",
+        "boxShadow": "none",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "2px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "10px",
+          "12px",
+          "10px",
+          "12px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "div",
+      "text": "Liga Ouro"
+    },
+    {
+      "classes": [
+        "rounded-lg",
+        "bg-card/80",
+        "border",
+        "border-border/60",
+        "px-3",
+        "py-2.5",
+        "flex",
+        "flex-col"
+      ],
+      "id": "",
+      "index": 7,
+      "rect": {
+        "height": 63,
+        "width": 204,
+        "x": 592,
+        "y": 321
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "oklab(1 0 0 / 0.8)",
+        "backgroundImage": "none",
+        "border": "1px solid oklab(0.91 -0.0051423 -0.00612836 / 0.6)",
+        "borderRadius": "12px",
+        "boxShadow": "none",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "2px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "10px",
+          "12px",
+          "10px",
+          "12px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "div",
+      "text": "Partidas 0"
+    },
+    {
+      "classes": [
+        "rounded-lg",
+        "bg-card/80",
+        "border",
+        "border-border/60",
+        "px-3",
+        "py-2.5",
+        "flex",
+        "flex-col"
+      ],
+      "id": "",
+      "index": 8,
+      "rect": {
+        "height": 63,
+        "width": 204,
+        "x": 804,
+        "y": 321
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "oklab(1 0 0 / 0.8)",
+        "backgroundImage": "none",
+        "border": "1px solid oklab(0.91 -0.0051423 -0.00612836 / 0.6)",
+        "borderRadius": "12px",
+        "boxShadow": "none",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "2px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "10px",
+          "12px",
+          "10px",
+          "12px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "div",
+      "text": "Vitórias 0"
+    },
+    {
+      "classes": [
+        "rounded-lg",
+        "bg-card/80",
+        "border",
+        "border-border/60",
+        "px-3",
+        "py-2.5",
+        "flex",
+        "flex-col"
+      ],
+      "id": "",
+      "index": 9,
+      "rect": {
+        "height": 79,
+        "width": 204,
+        "x": 592,
+        "y": 391
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "oklab(1 0 0 / 0.8)",
+        "backgroundImage": "none",
+        "border": "1px solid oklab(0.91 -0.0051423 -0.00612836 / 0.6)",
+        "borderRadius": "12px",
+        "boxShadow": "none",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "2px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "10px",
+          "12px",
+          "10px",
+          "12px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "div",
+      "text": "Competitivo V/D/E 0/0/0"
+    },
+    {
+      "classes": [
+        "rounded-lg",
+        "bg-card/80",
+        "border",
+        "border-border/60",
+        "px-3",
+        "py-2.5",
+        "flex",
+        "flex-col"
+      ],
+      "id": "",
+      "index": 10,
+      "rect": {
+        "height": 79,
+        "width": 204,
+        "x": 804,
+        "y": 391
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "oklab(1 0 0 / 0.8)",
+        "backgroundImage": "none",
+        "border": "1px solid oklab(0.91 -0.0051423 -0.00612836 / 0.6)",
+        "borderRadius": "12px",
+        "boxShadow": "none",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "2px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "10px",
+          "12px",
+          "10px",
+          "12px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "div",
+      "text": "Torneios jogados / vencidos 0 / 0"
+    }
+  ],
+  "title": "Perfil do jogador — DOMINÓ PLAY",
+  "url": "https://dominoplay.lovable.app/jogador/ac91194c-6b11-4f92-9f3b-ccfffa2f49a1",
+  "viewport": {
+    "dpr": 1,
+    "height": 765,
+    "width": 1600
+  }
+}

@@ -11,7 +11,9 @@
     "lint": "eslint .",
     "format": "prettier --write .",
     "test": "vitest run",
-    "test:watch": "vitest"
+    "test:watch": "vitest",
+    "predev": "node scripts/decode-assets.mjs",
+    "prebuild": "node scripts/decode-assets.mjs"
   },
   "overrides": {
     "rolldown": "1.2.1"

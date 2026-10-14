@@ -1,0 +1,656 @@
+{
+  "capturedAt": "2026-10-13T22:05:36.773Z",
+  "designTokens": {
+    "colors": [
+      {
+        "count": 12,
+        "value": "oklch(0.27 0.05 250)"
+      },
+      {
+        "count": 1,
+        "value": "oklch(1 0 0)"
+      }
+    ],
+    "fonts": [
+      {
+        "count": 12,
+        "value": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif"
+      }
+    ],
+    "mediaQueries": [
+      "(prefers-reduced-motion: reduce)",
+      "(prefers-contrast: high)",
+      "(hover: none) and (pointer: coarse)",
+      "(max-width: 600px)",
+      "(prefers-reduced-motion)"
+    ]
+  },
+  "document": {
+    "height": 2318,
+    "width": 1585
+  },
+  "elements": [
+    {
+      "classes": [
+        "wood-frame",
+        "mx-3",
+        "mt-3",
+        "rounded-2xl",
+        "px-5",
+        "py-4",
+        "flex",
+        "items-center"
+      ],
+      "id": "",
+      "index": 0,
+      "rect": {
+        "height": 62,
+        "width": 1561,
+        "x": 12,
+        "y": 12
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(1 0 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklch(0.91 0.008 230)",
+        "borderRadius": "20px",
+        "boxShadow": "oklch(0.27 0.05 250 / 0.06) 0px 1px 2px 0px, oklch(0.27 0.05 250 / 0.08) 0px 8px 24px 0px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "12px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "12px",
+          "12px",
+          "0px",
+          "12px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "16px",
+          "20px",
+          "16px",
+          "20px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "header",
+      "text": "COMO FUNCIONA"
+    },
+    {
+      "classes": [
+        "text-xl",
+        "font-black",
+        "tracking-tight",
+        "text-navy"
+      ],
+      "id": "",
+      "index": 1,
+      "rect": {
+        "height": 28,
+        "width": 172,
+        "x": 65,
+        "y": 29
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "block",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "900",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "letterSpacing": "-0.5px",
+        "lineHeight": "28px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "h1",
+      "text": "COMO FUNCIONA"
+    },
+    {
+      "classes": [
+        "flex-1",
+        "px-4",
+        "py-6",
+        "w-full",
+        "max-w-md",
+        "mx-auto",
+        "flex",
+        "flex-col"
+      ],
+      "id": "",
+      "index": 2,
+      "rect": {
+        "height": 2244,
+        "width": 448,
+        "x": 569,
+        "y": 74
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "20px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "568.5px",
+          "0px",
+          "568.5px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "24px",
+          "16px",
+          "24px",
+          "16px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "main",
+      "text": "Tudo sobre o DOMINÓ PLAY, com total transparência: regras, modos de jogo, cotas, VIP, ranking e segurança. Toque em cada pergunta para ler a resposta. COMO FUNCIONA O APP O que é o"
+    },
+    {
+      "classes": [
+        "flex-1",
+        "min-w-0",
+        "bg-transparent",
+        "text-sm",
+        "text-foreground",
+        "placeholder:text-muted-foreground/70",
+        "focus:outline-none"
+      ],
+      "id": "",
+      "index": 3,
+      "rect": {
+        "height": 20,
+        "width": 354,
+        "x": 630,
+        "y": 245
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "block",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "20px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "input",
+      "text": ""
+    },
+    {
+      "classes": [
+        "flex",
+        "flex-col",
+        "gap-2"
+      ],
+      "id": "",
+      "index": 4,
+      "rect": {
+        "height": 232,
+        "width": 416,
+        "x": 585,
+        "y": 298
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "section",
+      "text": "COMO FUNCIONA O APP O que é o DOMINÓ PLAY? Preciso criar conta para jogar? Quem decide o resultado das partidas? O app funciona no celular e no computador?"
+    },
+    {
+      "classes": [
+        "flex",
+        "flex-col",
+        "gap-2"
+      ],
+      "id": "",
+      "index": 5,
+      "rect": {
+        "height": 286,
+        "width": 416,
+        "x": 585,
+        "y": 550
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "section",
+      "text": "REGRAS DO JOGO Qual dominó é usado? Como faço uma jogada? E se eu não tiver pedra para jogar? Como se vence uma rodada? Como se vence a partida?"
+    },
+    {
+      "classes": [
+        "flex",
+        "flex-col",
+        "gap-2"
+      ],
+      "id": "",
+      "index": 6,
+      "rect": {
+        "height": 340,
+        "width": 416,
+        "x": 585,
+        "y": 856
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "section",
+      "text": "MODOS DE JOGO Jogar (contra o computador) Duplas (2×2) Jogar com amigos Competitivo Torneios Revanche"
+    },
+    {
+      "classes": [
+        "flex",
+        "flex-col",
+        "gap-2"
+      ],
+      "id": "",
+      "index": 7,
+      "rect": {
+        "height": 286,
+        "width": 416,
+        "x": 585,
+        "y": 1216
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "section",
+      "text": "COTAS, CONTA E VIP Quantas partidas grátis eu tenho? O que muda quando crio uma conta? O que o VIP inclui? O VIP dá vantagem no jogo? O que acontece quando o VIP vence?"
+    },
+    {
+      "classes": [
+        "flex",
+        "flex-col",
+        "gap-2"
+      ],
+      "id": "",
+      "index": 8,
+      "rect": {
+        "height": 178,
+        "width": 416,
+        "x": 585,
+        "y": 1522
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "section",
+      "text": "PLAY COINS, LOJA E PASSE DE TEMPORADA O que são Play Coins? O que posso comprar na loja? Como funciona o passe de temporada?"
+    },
+    {
+      "classes": [
+        "flex",
+        "flex-col",
+        "gap-2"
+      ],
+      "id": "",
+      "index": 9,
+      "rect": {
+        "height": 178,
+        "width": 416,
+        "x": 585,
+        "y": 1720
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "section",
+      "text": "RANKING E LIGAS Como funciona a pontuação? Quais são as ligas? Partida contra o computador altera meu ranking?"
+    },
+    {
+      "classes": [
+        "flex",
+        "flex-col",
+        "gap-2"
+      ],
+      "id": "",
+      "index": 10,
+      "rect": {
+        "height": 178,
+        "width": 416,
+        "x": 585,
+        "y": 1918
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "section",
+      "text": "CONEXÃO E FAIR PLAY O que acontece se minha internet cair? E se eu cair várias vezes? Posso denunciar mensagens no chat?"
+    },
+    {
+      "classes": [
+        "flex",
+        "flex-col",
+        "gap-2"
+      ],
+      "id": "",
+      "index": 11,
+      "rect": {
+        "height": 178,
+        "width": 416,
+        "x": 585,
+        "y": 2116
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "8px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "section",
+      "text": "TRANSPARÊNCIA Existe aposta ou prêmio em dinheiro? Como funciona o pagamento do VIP? Meus dados estão seguros?"
+    }
+  ],
+  "title": "Como funciona — DOMINÓ PLAY",
+  "url": "https://dominoplay.lovable.app/ajuda",
+  "viewport": {
+    "dpr": 1,
+    "height": 765,
+    "width": 1600
+  }
+}

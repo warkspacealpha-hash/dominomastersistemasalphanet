@@ -1,0 +1,1 @@
+function e(e){return e.isVip?[`facil`,`medio`,`dificil`]:e.hasAccount?[`facil`,`medio`]:[`facil`]}function t(t,n){return e(t).includes(n)}var n=[50,100,150];export{t as n,n as t};

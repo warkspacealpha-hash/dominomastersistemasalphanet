@@ -1,0 +1,2608 @@
+{
+  "capturedAt": "2026-10-13T21:55:39.775Z",
+  "designTokens": {
+    "colors": [
+      {
+        "count": 39,
+        "value": "oklch(1 0 0)"
+      },
+      {
+        "count": 27,
+        "value": "oklch(0.27 0.05 250)"
+      },
+      {
+        "count": 20,
+        "value": "oklch(0.45 0.08 165)"
+      },
+      {
+        "count": 4,
+        "value": "oklch(0.72 0.13 80)"
+      }
+    ],
+    "fonts": [
+      {
+        "count": 47,
+        "value": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif"
+      }
+    ],
+    "mediaQueries": [
+      "(prefers-reduced-motion: reduce)",
+      "(prefers-contrast: high)",
+      "(hover: none) and (pointer: coarse)",
+      "(max-width: 600px)",
+      "(prefers-reduced-motion)"
+    ]
+  },
+  "document": {
+    "height": 2121,
+    "width": 1585
+  },
+  "elements": [
+    {
+      "classes": [
+        "wood-frame",
+        "mx-3",
+        "mt-3",
+        "rounded-2xl",
+        "px-5",
+        "py-4",
+        "flex",
+        "items-center"
+      ],
+      "id": "",
+      "index": 0,
+      "rect": {
+        "height": 66,
+        "width": 1561,
+        "x": 12,
+        "y": 22
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(1 0 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklch(0.91 0.008 230)",
+        "borderRadius": "20px",
+        "boxShadow": "oklch(0.27 0.05 250 / 0.06) 0px 1px 2px 0px, oklch(0.27 0.05 250 / 0.08) 0px 8px 24px 0px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "12px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "12px",
+          "12px",
+          "0px",
+          "12px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "16px",
+          "20px",
+          "16px",
+          "20px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "header",
+      "text": "LOJA 0"
+    },
+    {
+      "classes": [
+        "text-xl",
+        "font-black",
+        "tracking-tight",
+        "text-navy"
+      ],
+      "id": "",
+      "index": 1,
+      "rect": {
+        "height": 28,
+        "width": 52,
+        "x": 65,
+        "y": 41
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "block",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "900",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "letterSpacing": "-0.5px",
+        "lineHeight": "28px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "h1",
+      "text": "LOJA"
+    },
+    {
+      "classes": [
+        "flex-1",
+        "px-4",
+        "py-6",
+        "w-full",
+        "max-w-md",
+        "mx-auto",
+        "flex",
+        "flex-col"
+      ],
+      "id": "",
+      "index": 2,
+      "rect": {
+        "height": 2033,
+        "width": 448,
+        "x": 569,
+        "y": 88
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "16px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "568.5px",
+          "0px",
+          "568.5px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "24px",
+          "16px",
+          "24px",
+          "16px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "main",
+      "text": "Play Coins 100 moedas R$ 4,90 Pix Cartão 550 moedas R$ 19,90 Pix Cartão 1200 moedas R$ 39,90 Pix Cartão 2500 moedas R$ 69,90 Pix Cartão Você escolhe: Pix ou cartão. Pagamento segur"
+    },
+    {
+      "classes": [
+        "wood-frame",
+        "rounded-xl",
+        "px-5",
+        "py-4",
+        "flex",
+        "flex-col",
+        "gap-3"
+      ],
+      "id": "",
+      "index": 3,
+      "rect": {
+        "height": 573,
+        "width": 416,
+        "x": 585,
+        "y": 112
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "oklch(1 0 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "oklch(0.27 0.05 250 / 0.06) 0px 1px 2px 0px, oklch(0.27 0.05 250 / 0.08) 0px 8px 24px 0px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "12px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "16px",
+          "20px",
+          "16px",
+          "20px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "section",
+      "text": "Play Coins 100 moedas R$ 4,90 Pix Cartão 550 moedas R$ 19,90 Pix Cartão 1200 moedas R$ 39,90 Pix Cartão 2500 moedas R$ 69,90 Pix Cartão Você escolhe: Pix ou cartão. Pagamento segur"
+    },
+    {
+      "classes": [
+        "text-sm",
+        "font-bold",
+        "text-foreground",
+        "flex",
+        "items-center",
+        "gap-2"
+      ],
+      "id": "",
+      "index": 4,
+      "rect": {
+        "height": 20,
+        "width": 374,
+        "x": 606,
+        "y": 129
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "700",
+        "gap": "8px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "20px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "h2",
+      "text": "Play Coins"
+    },
+    {
+      "classes": [
+        "btn-game",
+        "bg-gold",
+        "text-navy",
+        "text-xs",
+        "py-1.5",
+        "disabled:opacity-60"
+      ],
+      "id": "",
+      "index": 5,
+      "rect": {
+        "height": 44,
+        "width": 166,
+        "x": 623,
+        "y": 202
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(0.72 0.13 80)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "none",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "gap": "10px",
+        "justifyContent": "center",
+        "letterSpacing": "normal",
+        "lineHeight": "16px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "6px",
+          "24px",
+          "6px",
+          "24px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "button",
+      "text": "Pix"
+    },
+    {
+      "classes": [
+        "btn-game",
+        "bg-primary",
+        "text-primary-foreground",
+        "text-xs",
+        "py-1.5",
+        "disabled:opacity-60"
+      ],
+      "id": "",
+      "index": 6,
+      "rect": {
+        "height": 44,
+        "width": 166,
+        "x": 797,
+        "y": 202
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(0.45 0.08 165)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "none",
+        "color": "oklch(1 0 0)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "gap": "10px",
+        "justifyContent": "center",
+        "letterSpacing": "normal",
+        "lineHeight": "16px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "6px",
+          "24px",
+          "6px",
+          "24px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "button",
+      "text": "Cartão"
+    },
+    {
+      "classes": [
+        "btn-game",
+        "bg-gold",
+        "text-navy",
+        "text-xs",
+        "py-1.5",
+        "disabled:opacity-60"
+      ],
+      "id": "",
+      "index": 7,
+      "rect": {
+        "height": 44,
+        "width": 166,
+        "x": 623,
+        "y": 312
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(0.72 0.13 80)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "none",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "gap": "10px",
+        "justifyContent": "center",
+        "letterSpacing": "normal",
+        "lineHeight": "16px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "6px",
+          "24px",
+          "6px",
+          "24px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "button",
+      "text": "Pix"
+    },
+    {
+      "classes": [
+        "btn-game",
+        "bg-primary",
+        "text-primary-foreground",
+        "text-xs",
+        "py-1.5",
+        "disabled:opacity-60"
+      ],
+      "id": "",
+      "index": 8,
+      "rect": {
+        "height": 44,
+        "width": 166,
+        "x": 797,
+        "y": 312
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(0.45 0.08 165)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "none",
+        "color": "oklch(1 0 0)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "gap": "10px",
+        "justifyContent": "center",
+        "letterSpacing": "normal",
+        "lineHeight": "16px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "6px",
+          "24px",
+          "6px",
+          "24px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "button",
+      "text": "Cartão"
+    },
+    {
+      "classes": [
+        "btn-game",
+        "bg-gold",
+        "text-navy",
+        "text-xs",
+        "py-1.5",
+        "disabled:opacity-60"
+      ],
+      "id": "",
+      "index": 9,
+      "rect": {
+        "height": 44,
+        "width": 166,
+        "x": 623,
+        "y": 422
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(0.72 0.13 80)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "none",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "gap": "10px",
+        "justifyContent": "center",
+        "letterSpacing": "normal",
+        "lineHeight": "16px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "6px",
+          "24px",
+          "6px",
+          "24px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "button",
+      "text": "Pix"
+    },
+    {
+      "classes": [
+        "btn-game",
+        "bg-primary",
+        "text-primary-foreground",
+        "text-xs",
+        "py-1.5",
+        "disabled:opacity-60"
+      ],
+      "id": "",
+      "index": 10,
+      "rect": {
+        "height": 44,
+        "width": 166,
+        "x": 797,
+        "y": 422
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(0.45 0.08 165)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "none",
+        "color": "oklch(1 0 0)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "gap": "10px",
+        "justifyContent": "center",
+        "letterSpacing": "normal",
+        "lineHeight": "16px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "6px",
+          "24px",
+          "6px",
+          "24px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "button",
+      "text": "Cartão"
+    },
+    {
+      "classes": [
+        "btn-game",
+        "bg-gold",
+        "text-navy",
+        "text-xs",
+        "py-1.5",
+        "disabled:opacity-60"
+      ],
+      "id": "",
+      "index": 11,
+      "rect": {
+        "height": 44,
+        "width": 166,
+        "x": 623,
+        "y": 532
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(0.72 0.13 80)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "none",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "gap": "10px",
+        "justifyContent": "center",
+        "letterSpacing": "normal",
+        "lineHeight": "16px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "6px",
+          "24px",
+          "6px",
+          "24px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "button",
+      "text": "Pix"
+    },
+    {
+      "classes": [
+        "btn-game",
+        "bg-primary",
+        "text-primary-foreground",
+        "text-xs",
+        "py-1.5",
+        "disabled:opacity-60"
+      ],
+      "id": "",
+      "index": 12,
+      "rect": {
+        "height": 44,
+        "width": 166,
+        "x": 797,
+        "y": 532
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(0.45 0.08 165)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "none",
+        "color": "oklch(1 0 0)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "gap": "10px",
+        "justifyContent": "center",
+        "letterSpacing": "normal",
+        "lineHeight": "16px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "6px",
+          "24px",
+          "6px",
+          "24px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "button",
+      "text": "Cartão"
+    },
+    {
+      "classes": [
+        "wood-frame",
+        "rounded-xl",
+        "px-5",
+        "py-4",
+        "flex",
+        "flex-col",
+        "gap-3"
+      ],
+      "id": "",
+      "index": 13,
+      "rect": {
+        "height": 1396,
+        "width": 416,
+        "x": 585,
+        "y": 701
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "oklch(1 0 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "oklch(0.27 0.05 250 / 0.06) 0px 1px 2px 0px, oklch(0.27 0.05 250 / 0.08) 0px 8px 24px 0px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "12px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "16px",
+          "20px",
+          "16px",
+          "20px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "section",
+      "text": "Cosméticos Emblema Raio Emblema de raio exibido no seu perfil. 90 moedas Mesa Clássica Feltro verde tradicional de boteco. 120 moedas Pedras de Marfim Visual clássico em marfim par"
+    },
+    {
+      "classes": [
+        "text-sm",
+        "font-bold",
+        "text-foreground",
+        "flex",
+        "items-center",
+        "gap-2"
+      ],
+      "id": "",
+      "index": 14,
+      "rect": {
+        "height": 20,
+        "width": 374,
+        "x": 606,
+        "y": 718
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "700",
+        "gap": "8px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "20px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "h2",
+      "text": "Cosméticos"
+    },
+    {
+      "classes": [
+        "flex",
+        "items-center",
+        "gap-3",
+        "rounded-xl",
+        "bg-card",
+        "border",
+        "border-border",
+        "px-4"
+      ],
+      "id": "",
+      "index": 15,
+      "rect": {
+        "height": 62,
+        "width": 374,
+        "x": 606,
+        "y": 750
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(1 0 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "12px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "12px",
+          "16px",
+          "12px",
+          "16px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "div",
+      "text": "Emblema Raio Emblema de raio exibido no seu perfil. 90 moedas"
+    },
+    {
+      "classes": [
+        "rounded-lg",
+        "bg-primary",
+        "px-3",
+        "py-1.5",
+        "text-xs",
+        "font-bold",
+        "text-primary-foreground",
+        "hover:brightness-110"
+      ],
+      "id": "",
+      "index": 16,
+      "rect": {
+        "height": 28,
+        "width": 89,
+        "x": 873,
+        "y": 767
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "oklch(0.45 0.08 165)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "12px",
+        "boxShadow": "none",
+        "color": "oklch(1 0 0)",
+        "display": "block",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "16px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "6px",
+          "12px",
+          "6px",
+          "12px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "button",
+      "text": "90 moedas"
+    },
+    {
+      "classes": [
+        "flex",
+        "items-center",
+        "gap-3",
+        "rounded-xl",
+        "bg-card",
+        "border",
+        "border-border",
+        "px-4"
+      ],
+      "id": "",
+      "index": 17,
+      "rect": {
+        "height": 62,
+        "width": 374,
+        "x": 606,
+        "y": 824
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(1 0 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "12px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "12px",
+          "16px",
+          "12px",
+          "16px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "div",
+      "text": "Mesa Clássica Feltro verde tradicional de boteco. 120 moedas"
+    },
+    {
+      "classes": [
+        "rounded-lg",
+        "bg-primary",
+        "px-3",
+        "py-1.5",
+        "text-xs",
+        "font-bold",
+        "text-primary-foreground",
+        "hover:brightness-110"
+      ],
+      "id": "",
+      "index": 18,
+      "rect": {
+        "height": 28,
+        "width": 94,
+        "x": 868,
+        "y": 841
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "oklch(0.45 0.08 165)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "12px",
+        "boxShadow": "none",
+        "color": "oklch(1 0 0)",
+        "display": "block",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "16px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "6px",
+          "12px",
+          "6px",
+          "12px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "button",
+      "text": "120 moedas"
+    },
+    {
+      "classes": [
+        "flex",
+        "items-center",
+        "gap-3",
+        "rounded-xl",
+        "bg-card",
+        "border",
+        "border-border",
+        "px-4"
+      ],
+      "id": "",
+      "index": 19,
+      "rect": {
+        "height": 78,
+        "width": 374,
+        "x": 606,
+        "y": 898
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(1 0 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "12px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "12px",
+          "16px",
+          "12px",
+          "16px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "div",
+      "text": "Pedras de Marfim Visual clássico em marfim para suas pedras. 150 moedas"
+    },
+    {
+      "classes": [
+        "rounded-lg",
+        "bg-primary",
+        "px-3",
+        "py-1.5",
+        "text-xs",
+        "font-bold",
+        "text-primary-foreground",
+        "hover:brightness-110"
+      ],
+      "id": "",
+      "index": 20,
+      "rect": {
+        "height": 28,
+        "width": 94,
+        "x": 868,
+        "y": 923
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "oklch(0.45 0.08 165)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "12px",
+        "boxShadow": "none",
+        "color": "oklch(1 0 0)",
+        "display": "block",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "16px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "6px",
+          "12px",
+          "6px",
+          "12px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "button",
+      "text": "150 moedas"
+    },
+    {
+      "classes": [
+        "flex",
+        "items-center",
+        "gap-3",
+        "rounded-xl",
+        "bg-card",
+        "border",
+        "border-border",
+        "px-4"
+      ],
+      "id": "",
+      "index": 21,
+      "rect": {
+        "height": 62,
+        "width": 374,
+        "x": 606,
+        "y": 988
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(1 0 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "12px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "12px",
+          "16px",
+          "12px",
+          "16px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "div",
+      "text": "Emblema Troféu Emblema de troféu exibido no seu perfil. 150 moedas"
+    },
+    {
+      "classes": [
+        "rounded-lg",
+        "bg-primary",
+        "px-3",
+        "py-1.5",
+        "text-xs",
+        "font-bold",
+        "text-primary-foreground",
+        "hover:brightness-110"
+      ],
+      "id": "",
+      "index": 22,
+      "rect": {
+        "height": 28,
+        "width": 94,
+        "x": 868,
+        "y": 1005
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "oklch(0.45 0.08 165)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "12px",
+        "boxShadow": "none",
+        "color": "oklch(1 0 0)",
+        "display": "block",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "16px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "6px",
+          "12px",
+          "6px",
+          "12px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "button",
+      "text": "150 moedas"
+    },
+    {
+      "classes": [
+        "flex",
+        "items-center",
+        "gap-3",
+        "rounded-xl",
+        "bg-card",
+        "border",
+        "border-border",
+        "px-4"
+      ],
+      "id": "",
+      "index": 23,
+      "rect": {
+        "height": 78,
+        "width": 374,
+        "x": 606,
+        "y": 1062
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(1 0 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "12px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "12px",
+          "16px",
+          "12px",
+          "16px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "div",
+      "text": "Pedras de Carbono Pedras pretas fosco com pontos prateados. 180 moedas"
+    },
+    {
+      "classes": [
+        "rounded-lg",
+        "bg-primary",
+        "px-3",
+        "py-1.5",
+        "text-xs",
+        "font-bold",
+        "text-primary-foreground",
+        "hover:brightness-110"
+      ],
+      "id": "",
+      "index": 24,
+      "rect": {
+        "height": 28,
+        "width": 95,
+        "x": 868,
+        "y": 1087
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "oklch(0.45 0.08 165)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "12px",
+        "boxShadow": "none",
+        "color": "oklch(1 0 0)",
+        "display": "block",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "16px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "6px",
+          "12px",
+          "6px",
+          "12px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "button",
+      "text": "180 moedas"
+    },
+    {
+      "classes": [
+        "flex",
+        "items-center",
+        "gap-3",
+        "rounded-xl",
+        "bg-card",
+        "border",
+        "border-border",
+        "px-4"
+      ],
+      "id": "",
+      "index": 25,
+      "rect": {
+        "height": 62,
+        "width": 374,
+        "x": 606,
+        "y": 1152
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(1 0 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "12px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "12px",
+          "16px",
+          "12px",
+          "16px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "div",
+      "text": "Mesa Praia de Iracema Feltro com tema de praia cearense. 200 moedas"
+    },
+    {
+      "classes": [
+        "rounded-lg",
+        "bg-primary",
+        "px-3",
+        "py-1.5",
+        "text-xs",
+        "font-bold",
+        "text-primary-foreground",
+        "hover:brightness-110"
+      ],
+      "id": "",
+      "index": 26,
+      "rect": {
+        "height": 28,
+        "width": 97,
+        "x": 865,
+        "y": 1169
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "oklch(0.45 0.08 165)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "12px",
+        "boxShadow": "none",
+        "color": "oklch(1 0 0)",
+        "display": "block",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "16px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "6px",
+          "12px",
+          "6px",
+          "12px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "button",
+      "text": "200 moedas"
+    },
+    {
+      "classes": [
+        "flex",
+        "items-center",
+        "gap-3",
+        "rounded-xl",
+        "bg-card",
+        "border",
+        "border-border",
+        "px-4"
+      ],
+      "id": "",
+      "index": 27,
+      "rect": {
+        "height": 62,
+        "width": 374,
+        "x": 606,
+        "y": 1226
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(1 0 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "12px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "12px",
+          "16px",
+          "12px",
+          "16px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "div",
+      "text": "Mesa Noite Estrelada Feltro escuro com estrelas. 200 moedas"
+    },
+    {
+      "classes": [
+        "rounded-lg",
+        "bg-primary",
+        "px-3",
+        "py-1.5",
+        "text-xs",
+        "font-bold",
+        "text-primary-foreground",
+        "hover:brightness-110"
+      ],
+      "id": "",
+      "index": 28,
+      "rect": {
+        "height": 28,
+        "width": 97,
+        "x": 865,
+        "y": 1243
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "oklch(0.45 0.08 165)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "12px",
+        "boxShadow": "none",
+        "color": "oklch(1 0 0)",
+        "display": "block",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "16px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "6px",
+          "12px",
+          "6px",
+          "12px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "button",
+      "text": "200 moedas"
+    },
+    {
+      "classes": [
+        "flex",
+        "items-center",
+        "gap-3",
+        "rounded-xl",
+        "bg-card",
+        "border",
+        "border-border",
+        "px-4"
+      ],
+      "id": "",
+      "index": 29,
+      "rect": {
+        "height": 78,
+        "width": 374,
+        "x": 606,
+        "y": 1300
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(1 0 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "12px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "12px",
+          "16px",
+          "12px",
+          "16px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "div",
+      "text": "Pedras de Obsidiana Visual escuro premium para suas pedras. 250 moedas"
+    },
+    {
+      "classes": [
+        "rounded-lg",
+        "bg-primary",
+        "px-3",
+        "py-1.5",
+        "text-xs",
+        "font-bold",
+        "text-primary-foreground",
+        "hover:brightness-110"
+      ],
+      "id": "",
+      "index": 30,
+      "rect": {
+        "height": 28,
+        "width": 97,
+        "x": 866,
+        "y": 1325
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "oklch(0.45 0.08 165)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "12px",
+        "boxShadow": "none",
+        "color": "oklch(1 0 0)",
+        "display": "block",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "16px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "6px",
+          "12px",
+          "6px",
+          "12px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "button",
+      "text": "250 moedas"
+    },
+    {
+      "classes": [
+        "flex",
+        "items-center",
+        "gap-3",
+        "rounded-xl",
+        "bg-card",
+        "border",
+        "border-border",
+        "px-4"
+      ],
+      "id": "",
+      "index": 31,
+      "rect": {
+        "height": 62,
+        "width": 374,
+        "x": 606,
+        "y": 1390
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(1 0 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "12px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "12px",
+          "16px",
+          "12px",
+          "16px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "div",
+      "text": "Mesa Arena Mesa azul-escura estilo campeonato. 260 moedas"
+    },
+    {
+      "classes": [
+        "rounded-lg",
+        "bg-primary",
+        "px-3",
+        "py-1.5",
+        "text-xs",
+        "font-bold",
+        "text-primary-foreground",
+        "hover:brightness-110"
+      ],
+      "id": "",
+      "index": 32,
+      "rect": {
+        "height": 28,
+        "width": 97,
+        "x": 866,
+        "y": 1407
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "oklch(0.45 0.08 165)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "12px",
+        "boxShadow": "none",
+        "color": "oklch(1 0 0)",
+        "display": "block",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "16px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "6px",
+          "12px",
+          "6px",
+          "12px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "button",
+      "text": "260 moedas"
+    },
+    {
+      "classes": [
+        "flex",
+        "items-center",
+        "gap-3",
+        "rounded-xl",
+        "bg-card",
+        "border",
+        "border-border",
+        "px-4"
+      ],
+      "id": "",
+      "index": 33,
+      "rect": {
+        "height": 78,
+        "width": 374,
+        "x": 606,
+        "y": 1464
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(1 0 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "12px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "12px",
+          "16px",
+          "12px",
+          "16px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "div",
+      "text": "Pedras de Jade Pedras verde-jade com pontos dourados. 320 moedas"
+    },
+    {
+      "classes": [
+        "rounded-lg",
+        "bg-primary",
+        "px-3",
+        "py-1.5",
+        "text-xs",
+        "font-bold",
+        "text-primary-foreground",
+        "hover:brightness-110"
+      ],
+      "id": "",
+      "index": 34,
+      "rect": {
+        "height": 28,
+        "width": 97,
+        "x": 866,
+        "y": 1489
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "oklch(0.45 0.08 165)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "12px",
+        "boxShadow": "none",
+        "color": "oklch(1 0 0)",
+        "display": "block",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "16px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "6px",
+          "12px",
+          "6px",
+          "12px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "button",
+      "text": "320 moedas"
+    },
+    {
+      "classes": [
+        "flex",
+        "items-center",
+        "gap-3",
+        "rounded-xl",
+        "bg-card",
+        "border",
+        "border-border",
+        "px-4"
+      ],
+      "id": "",
+      "index": 35,
+      "rect": {
+        "height": 78,
+        "width": 374,
+        "x": 606,
+        "y": 1554
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(1 0 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "12px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "12px",
+          "16px",
+          "12px",
+          "16px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "div",
+      "text": "Emblema Coroa VIP Coroa dourada no perfil, só para assinantes. 350 moedas"
+    },
+    {
+      "classes": [
+        "rounded-lg",
+        "bg-primary",
+        "px-3",
+        "py-1.5",
+        "text-xs",
+        "font-bold",
+        "text-primary-foreground",
+        "hover:brightness-110"
+      ],
+      "id": "",
+      "index": 36,
+      "rect": {
+        "height": 28,
+        "width": 97,
+        "x": 866,
+        "y": 1579
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "oklch(0.45 0.08 165)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "12px",
+        "boxShadow": "none",
+        "color": "oklch(1 0 0)",
+        "display": "block",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "16px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "6px",
+          "12px",
+          "6px",
+          "12px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "button",
+      "text": "350 moedas"
+    },
+    {
+      "classes": [
+        "flex",
+        "items-center",
+        "gap-3",
+        "rounded-xl",
+        "bg-card",
+        "border",
+        "border-border",
+        "px-4"
+      ],
+      "id": "",
+      "index": 37,
+      "rect": {
+        "height": 62,
+        "width": 374,
+        "x": 606,
+        "y": 1644
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(1 0 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "12px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "12px",
+          "16px",
+          "12px",
+          "16px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "div",
+      "text": "Emblema de Ouro Emblema dourado no seu perfil. 400 moedas"
+    },
+    {
+      "classes": [
+        "rounded-lg",
+        "bg-primary",
+        "px-3",
+        "py-1.5",
+        "text-xs",
+        "font-bold",
+        "text-primary-foreground",
+        "hover:brightness-110"
+      ],
+      "id": "",
+      "index": 38,
+      "rect": {
+        "height": 28,
+        "width": 98,
+        "x": 865,
+        "y": 1661
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "oklch(0.45 0.08 165)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "12px",
+        "boxShadow": "none",
+        "color": "oklch(1 0 0)",
+        "display": "block",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "16px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "6px",
+          "12px",
+          "6px",
+          "12px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "button",
+      "text": "400 moedas"
+    },
+    {
+      "classes": [
+        "flex",
+        "items-center",
+        "gap-3",
+        "rounded-xl",
+        "bg-card",
+        "border",
+        "border-border",
+        "px-4"
+      ],
+      "id": "",
+      "index": 39,
+      "rect": {
+        "height": 62,
+        "width": 374,
+        "x": 606,
+        "y": 1718
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(1 0 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "12px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "12px",
+          "16px",
+          "12px",
+          "16px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "div",
+      "text": "Moldura Dourada VIP Moldura dourada em volta do seu nome. 450 moedas"
+    },
+    {
+      "classes": [
+        "rounded-lg",
+        "bg-primary",
+        "px-3",
+        "py-1.5",
+        "text-xs",
+        "font-bold",
+        "text-primary-foreground",
+        "hover:brightness-110"
+      ],
+      "id": "",
+      "index": 40,
+      "rect": {
+        "height": 28,
+        "width": 97,
+        "x": 865,
+        "y": 1735
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "oklch(0.45 0.08 165)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "12px",
+        "boxShadow": "none",
+        "color": "oklch(1 0 0)",
+        "display": "block",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "16px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "6px",
+          "12px",
+          "6px",
+          "12px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "button",
+      "text": "450 moedas"
+    },
+    {
+      "classes": [
+        "flex",
+        "items-center",
+        "gap-3",
+        "rounded-xl",
+        "bg-card",
+        "border",
+        "border-border",
+        "px-4"
+      ],
+      "id": "",
+      "index": 41,
+      "rect": {
+        "height": 78,
+        "width": 374,
+        "x": 606,
+        "y": 1792
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(1 0 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "12px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "12px",
+          "16px",
+          "12px",
+          "16px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "div",
+      "text": "Pedras Imperiais Visual exclusivo VIP com filetes dourados. 500 moedas"
+    },
+    {
+      "classes": [
+        "rounded-lg",
+        "bg-primary",
+        "px-3",
+        "py-1.5",
+        "text-xs",
+        "font-bold",
+        "text-primary-foreground",
+        "hover:brightness-110"
+      ],
+      "id": "",
+      "index": 42,
+      "rect": {
+        "height": 28,
+        "width": 97,
+        "x": 865,
+        "y": 1817
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "oklch(0.45 0.08 165)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "12px",
+        "boxShadow": "none",
+        "color": "oklch(1 0 0)",
+        "display": "block",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "16px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "6px",
+          "12px",
+          "6px",
+          "12px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "button",
+      "text": "500 moedas"
+    },
+    {
+      "classes": [
+        "flex",
+        "items-center",
+        "gap-3",
+        "rounded-xl",
+        "bg-card",
+        "border",
+        "border-border",
+        "px-4"
+      ],
+      "id": "",
+      "index": 43,
+      "rect": {
+        "height": 62,
+        "width": 374,
+        "x": 606,
+        "y": 1882
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(1 0 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "12px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "12px",
+          "16px",
+          "12px",
+          "16px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "div",
+      "text": "Pedras Aurora Pedras com brilho aurora exclusivo VIP. 600 moedas"
+    },
+    {
+      "classes": [
+        "rounded-lg",
+        "bg-primary",
+        "px-3",
+        "py-1.5",
+        "text-xs",
+        "font-bold",
+        "text-primary-foreground",
+        "hover:brightness-110"
+      ],
+      "id": "",
+      "index": 44,
+      "rect": {
+        "height": 28,
+        "width": 98,
+        "x": 865,
+        "y": 1899
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "oklch(0.45 0.08 165)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "12px",
+        "boxShadow": "none",
+        "color": "oklch(1 0 0)",
+        "display": "block",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "16px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "6px",
+          "12px",
+          "6px",
+          "12px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "button",
+      "text": "600 moedas"
+    },
+    {
+      "classes": [
+        "flex",
+        "items-center",
+        "gap-3",
+        "rounded-xl",
+        "bg-card",
+        "border",
+        "border-border",
+        "px-4"
+      ],
+      "id": "",
+      "index": 45,
+      "rect": {
+        "height": 78,
+        "width": 374,
+        "x": 606,
+        "y": 1956
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(1 0 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "12px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "12px",
+          "16px",
+          "12px",
+          "16px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "div",
+      "text": "Mesa Palácio Mesa dourada com bordas nobres, exclusiva VIP. 700 moedas"
+    },
+    {
+      "classes": [
+        "rounded-lg",
+        "bg-primary",
+        "px-3",
+        "py-1.5",
+        "text-xs",
+        "font-bold",
+        "text-primary-foreground",
+        "hover:brightness-110"
+      ],
+      "id": "",
+      "index": 46,
+      "rect": {
+        "height": 28,
+        "width": 97,
+        "x": 866,
+        "y": 1981
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "oklch(0.45 0.08 165)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "12px",
+        "boxShadow": "none",
+        "color": "oklch(1 0 0)",
+        "display": "block",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "16px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "6px",
+          "12px",
+          "6px",
+          "12px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "button",
+      "text": "700 moedas"
+    }
+  ],
+  "title": "Loja — DOMINÓ PLAY",
+  "url": "https://dominoplay.lovable.app/loja",
+  "viewport": {
+    "dpr": 1,
+    "height": 765,
+    "width": 1600
+  }
+}

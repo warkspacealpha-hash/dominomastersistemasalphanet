@@ -1,0 +1,201 @@
+{
+  "capturedAt": "2026-10-13T22:01:28.780Z",
+  "designTokens": {
+    "colors": [
+      {
+        "count": 3,
+        "value": "oklch(0.27 0.05 250)"
+      },
+      {
+        "count": 1,
+        "value": "oklch(1 0 0)"
+      }
+    ],
+    "fonts": [
+      {
+        "count": 3,
+        "value": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif"
+      }
+    ],
+    "mediaQueries": [
+      "(prefers-reduced-motion: reduce)",
+      "(prefers-contrast: high)",
+      "(hover: none) and (pointer: coarse)",
+      "(max-width: 600px)",
+      "(prefers-reduced-motion)"
+    ]
+  },
+  "document": {
+    "height": 1104,
+    "width": 1585
+  },
+  "elements": [
+    {
+      "classes": [
+        "wood-frame",
+        "mx-3",
+        "mt-3",
+        "rounded-2xl",
+        "px-5",
+        "py-4",
+        "flex",
+        "items-center"
+      ],
+      "id": "",
+      "index": 0,
+      "rect": {
+        "height": 62,
+        "width": 1561,
+        "x": 12,
+        "y": 22
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(1 0 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklch(0.91 0.008 230)",
+        "borderRadius": "20px",
+        "boxShadow": "oklch(0.27 0.05 250 / 0.06) 0px 1px 2px 0px, oklch(0.27 0.05 250 / 0.08) 0px 8px 24px 0px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "12px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "12px",
+          "12px",
+          "0px",
+          "12px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "16px",
+          "20px",
+          "16px",
+          "20px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "header",
+      "text": "PASSE DE TEMPORADA"
+    },
+    {
+      "classes": [
+        "text-xl",
+        "font-black",
+        "tracking-tight",
+        "text-navy",
+        "flex",
+        "items-center",
+        "gap-2"
+      ],
+      "id": "",
+      "index": 1,
+      "rect": {
+        "height": 28,
+        "width": 252,
+        "x": 65,
+        "y": 39
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "900",
+        "gap": "8px",
+        "justifyContent": "normal",
+        "letterSpacing": "-0.5px",
+        "lineHeight": "28px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "h1",
+      "text": "PASSE DE TEMPORADA"
+    },
+    {
+      "classes": [
+        "mx-auto",
+        "max-w-2xl",
+        "px-4",
+        "py-6"
+      ],
+      "id": "",
+      "index": 2,
+      "rect": {
+        "height": 1020,
+        "width": 672,
+        "x": 457,
+        "y": 84
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "block",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "456.5px",
+          "0px",
+          "456.5px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "24px",
+          "16px",
+          "24px",
+          "16px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "main",
+      "text": "Temporada 1 Termina em 10/12/2026 0 XP — ganhe XP em toda partida finalizada (vitória vale mais) 1 50 Play Coins 20 XP necessários 2 80 Play Coins 50 XP necessários 3 Cosmético: Pe"
+    }
+  ],
+  "title": "Passe de Temporada — DOMINÓ PLAY",
+  "url": "https://dominoplay.lovable.app/passe",
+  "viewport": {
+    "dpr": 1,
+    "height": 765,
+    "width": 1600
+  }
+}

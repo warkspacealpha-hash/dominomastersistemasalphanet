@@ -10,33 +10,271 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as AjudaRouteImport } from './routes/ajuda'
+import { Route as AmigosRouteImport } from './routes/amigos'
+import { Route as AoVivoRouteImport } from './routes/ao-vivo'
+import { Route as ChatRouteImport } from './routes/chat'
+import { Route as ClubesRouteImport } from './routes/clubes'
+import { Route as CompetitivoRouteImport } from './routes/competitivo'
+import { Route as ConfiguracoesRouteImport } from './routes/configuracoes'
+import { Route as HistoricoRouteImport } from './routes/historico'
+import { Route as LojaRouteImport } from './routes/loja'
+import { Route as PasseRouteImport } from './routes/passe'
+import { Route as PerfilRouteImport } from './routes/perfil'
+import { Route as RankingRouteImport } from './routes/ranking'
+import { Route as TorneiosRouteImport } from './routes/torneios'
+import { Route as VipRouteImport } from './routes/vip'
+import { Route as JogadorGuestIdRouteImport } from './routes/jogador.$guestId'
+import { Route as JogarIndexRouteImport } from './routes/jogar/index'
+import { Route as JogarAmigoRouteImport } from './routes/jogar/amigo'
+import { Route as JogarDuplasRouteImport } from './routes/jogar/duplas'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const AjudaRoute = AjudaRouteImport.update({
+  id: '/ajuda',
+  path: '/ajuda',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const AmigosRoute = AmigosRouteImport.update({
+  id: '/amigos',
+  path: '/amigos',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const AoVivoRoute = AoVivoRouteImport.update({
+  id: '/ao-vivo',
+  path: '/ao-vivo',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ChatRoute = ChatRouteImport.update({
+  id: '/chat',
+  path: '/chat',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ClubesRoute = ClubesRouteImport.update({
+  id: '/clubes',
+  path: '/clubes',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const CompetitivoRoute = CompetitivoRouteImport.update({
+  id: '/competitivo',
+  path: '/competitivo',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ConfiguracoesRoute = ConfiguracoesRouteImport.update({
+  id: '/configuracoes',
+  path: '/configuracoes',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const HistoricoRoute = HistoricoRouteImport.update({
+  id: '/historico',
+  path: '/historico',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const LojaRoute = LojaRouteImport.update({
+  id: '/loja',
+  path: '/loja',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const PasseRoute = PasseRouteImport.update({
+  id: '/passe',
+  path: '/passe',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const PerfilRoute = PerfilRouteImport.update({
+  id: '/perfil',
+  path: '/perfil',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const RankingRoute = RankingRouteImport.update({
+  id: '/ranking',
+  path: '/ranking',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const TorneiosRoute = TorneiosRouteImport.update({
+  id: '/torneios',
+  path: '/torneios',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const VipRoute = VipRouteImport.update({
+  id: '/vip',
+  path: '/vip',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const JogadorGuestIdRoute = JogadorGuestIdRouteImport.update({
+  id: '/jogador/$guestId',
+  path: '/jogador/$guestId',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const JogarIndexRoute = JogarIndexRouteImport.update({
+  id: '/jogar/',
+  path: '/jogar/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const JogarAmigoRoute = JogarAmigoRouteImport.update({
+  id: '/jogar/amigo',
+  path: '/jogar/amigo',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const JogarDuplasRoute = JogarDuplasRouteImport.update({
+  id: '/jogar/duplas',
+  path: '/jogar/duplas',
+  getParentRoute: () => rootRouteImport,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/ajuda': typeof AjudaRoute
+  '/amigos': typeof AmigosRoute
+  '/ao-vivo': typeof AoVivoRoute
+  '/chat': typeof ChatRoute
+  '/clubes': typeof ClubesRoute
+  '/competitivo': typeof CompetitivoRoute
+  '/configuracoes': typeof ConfiguracoesRoute
+  '/historico': typeof HistoricoRoute
+  '/loja': typeof LojaRoute
+  '/passe': typeof PasseRoute
+  '/perfil': typeof PerfilRoute
+  '/ranking': typeof RankingRoute
+  '/torneios': typeof TorneiosRoute
+  '/vip': typeof VipRoute
+  '/jogador/$guestId': typeof JogadorGuestIdRoute
+  '/jogar/amigo': typeof JogarAmigoRoute
+  '/jogar/duplas': typeof JogarDuplasRoute
+  '/jogar/': typeof JogarIndexRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/ajuda': typeof AjudaRoute
+  '/amigos': typeof AmigosRoute
+  '/ao-vivo': typeof AoVivoRoute
+  '/chat': typeof ChatRoute
+  '/clubes': typeof ClubesRoute
+  '/competitivo': typeof CompetitivoRoute
+  '/configuracoes': typeof ConfiguracoesRoute
+  '/historico': typeof HistoricoRoute
+  '/loja': typeof LojaRoute
+  '/passe': typeof PasseRoute
+  '/perfil': typeof PerfilRoute
+  '/ranking': typeof RankingRoute
+  '/torneios': typeof TorneiosRoute
+  '/vip': typeof VipRoute
+  '/jogador/$guestId': typeof JogadorGuestIdRoute
+  '/jogar/amigo': typeof JogarAmigoRoute
+  '/jogar/duplas': typeof JogarDuplasRoute
+  '/jogar': typeof JogarIndexRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/ajuda': typeof AjudaRoute
+  '/amigos': typeof AmigosRoute
+  '/ao-vivo': typeof AoVivoRoute
+  '/chat': typeof ChatRoute
+  '/clubes': typeof ClubesRoute
+  '/competitivo': typeof CompetitivoRoute
+  '/configuracoes': typeof ConfiguracoesRoute
+  '/historico': typeof HistoricoRoute
+  '/loja': typeof LojaRoute
+  '/passe': typeof PasseRoute
+  '/perfil': typeof PerfilRoute
+  '/ranking': typeof RankingRoute
+  '/torneios': typeof TorneiosRoute
+  '/vip': typeof VipRoute
+  '/jogador/$guestId': typeof JogadorGuestIdRoute
+  '/jogar/amigo': typeof JogarAmigoRoute
+  '/jogar/duplas': typeof JogarDuplasRoute
+  '/jogar/': typeof JogarIndexRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/'
+  fullPaths:
+    | '/'
+    | '/ajuda'
+    | '/amigos'
+    | '/ao-vivo'
+    | '/chat'
+    | '/clubes'
+    | '/competitivo'
+    | '/configuracoes'
+    | '/historico'
+    | '/loja'
+    | '/passe'
+    | '/perfil'
+    | '/ranking'
+    | '/torneios'
+    | '/vip'
+    | '/jogador/$guestId'
+    | '/jogar/amigo'
+    | '/jogar/duplas'
+    | '/jogar/'
   fileRoutesByTo: FileRoutesByTo
-  to: '/'
-  id: '__root__' | '/'
+  to:
+    | '/'
+    | '/ajuda'
+    | '/amigos'
+    | '/ao-vivo'
+    | '/chat'
+    | '/clubes'
+    | '/competitivo'
+    | '/configuracoes'
+    | '/historico'
+    | '/loja'
+    | '/passe'
+    | '/perfil'
+    | '/ranking'
+    | '/torneios'
+    | '/vip'
+    | '/jogador/$guestId'
+    | '/jogar/amigo'
+    | '/jogar/duplas'
+    | '/jogar'
+  id:
+    | '__root__'
+    | '/'
+    | '/ajuda'
+    | '/amigos'
+    | '/ao-vivo'
+    | '/chat'
+    | '/clubes'
+    | '/competitivo'
+    | '/configuracoes'
+    | '/historico'
+    | '/loja'
+    | '/passe'
+    | '/perfil'
+    | '/ranking'
+    | '/torneios'
+    | '/vip'
+    | '/jogador/$guestId'
+    | '/jogar/amigo'
+    | '/jogar/duplas'
+    | '/jogar/'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  AjudaRoute: typeof AjudaRoute
+  AmigosRoute: typeof AmigosRoute
+  AoVivoRoute: typeof AoVivoRoute
+  ChatRoute: typeof ChatRoute
+  ClubesRoute: typeof ClubesRoute
+  CompetitivoRoute: typeof CompetitivoRoute
+  ConfiguracoesRoute: typeof ConfiguracoesRoute
+  HistoricoRoute: typeof HistoricoRoute
+  LojaRoute: typeof LojaRoute
+  PasseRoute: typeof PasseRoute
+  PerfilRoute: typeof PerfilRoute
+  RankingRoute: typeof RankingRoute
+  TorneiosRoute: typeof TorneiosRoute
+  VipRoute: typeof VipRoute
+  JogadorGuestIdRoute: typeof JogadorGuestIdRoute
+  JogarAmigoRoute: typeof JogarAmigoRoute
+  JogarDuplasRoute: typeof JogarDuplasRoute
+  JogarIndexRoute: typeof JogarIndexRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -48,11 +286,155 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/ajuda': {
+      id: '/ajuda'
+      path: '/ajuda'
+      fullPath: '/ajuda'
+      preLoaderRoute: typeof AjudaRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/amigos': {
+      id: '/amigos'
+      path: '/amigos'
+      fullPath: '/amigos'
+      preLoaderRoute: typeof AmigosRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/ao-vivo': {
+      id: '/ao-vivo'
+      path: '/ao-vivo'
+      fullPath: '/ao-vivo'
+      preLoaderRoute: typeof AoVivoRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/chat': {
+      id: '/chat'
+      path: '/chat'
+      fullPath: '/chat'
+      preLoaderRoute: typeof ChatRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/clubes': {
+      id: '/clubes'
+      path: '/clubes'
+      fullPath: '/clubes'
+      preLoaderRoute: typeof ClubesRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/competitivo': {
+      id: '/competitivo'
+      path: '/competitivo'
+      fullPath: '/competitivo'
+      preLoaderRoute: typeof CompetitivoRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/configuracoes': {
+      id: '/configuracoes'
+      path: '/configuracoes'
+      fullPath: '/configuracoes'
+      preLoaderRoute: typeof ConfiguracoesRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/historico': {
+      id: '/historico'
+      path: '/historico'
+      fullPath: '/historico'
+      preLoaderRoute: typeof HistoricoRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/loja': {
+      id: '/loja'
+      path: '/loja'
+      fullPath: '/loja'
+      preLoaderRoute: typeof LojaRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/passe': {
+      id: '/passe'
+      path: '/passe'
+      fullPath: '/passe'
+      preLoaderRoute: typeof PasseRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/perfil': {
+      id: '/perfil'
+      path: '/perfil'
+      fullPath: '/perfil'
+      preLoaderRoute: typeof PerfilRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/ranking': {
+      id: '/ranking'
+      path: '/ranking'
+      fullPath: '/ranking'
+      preLoaderRoute: typeof RankingRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/torneios': {
+      id: '/torneios'
+      path: '/torneios'
+      fullPath: '/torneios'
+      preLoaderRoute: typeof TorneiosRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/vip': {
+      id: '/vip'
+      path: '/vip'
+      fullPath: '/vip'
+      preLoaderRoute: typeof VipRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/jogador/$guestId': {
+      id: '/jogador/$guestId'
+      path: '/jogador/$guestId'
+      fullPath: '/jogador/$guestId'
+      preLoaderRoute: typeof JogadorGuestIdRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/jogar/': {
+      id: '/jogar/'
+      path: '/jogar'
+      fullPath: '/jogar/'
+      preLoaderRoute: typeof JogarIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/jogar/amigo': {
+      id: '/jogar/amigo'
+      path: '/jogar/amigo'
+      fullPath: '/jogar/amigo'
+      preLoaderRoute: typeof JogarAmigoRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/jogar/duplas': {
+      id: '/jogar/duplas'
+      path: '/jogar/duplas'
+      fullPath: '/jogar/duplas'
+      preLoaderRoute: typeof JogarDuplasRouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  AjudaRoute: AjudaRoute,
+  AmigosRoute: AmigosRoute,
+  AoVivoRoute: AoVivoRoute,
+  ChatRoute: ChatRoute,
+  ClubesRoute: ClubesRoute,
+  CompetitivoRoute: CompetitivoRoute,
+  ConfiguracoesRoute: ConfiguracoesRoute,
+  HistoricoRoute: HistoricoRoute,
+  LojaRoute: LojaRoute,
+  PasseRoute: PasseRoute,
+  PerfilRoute: PerfilRoute,
+  RankingRoute: RankingRoute,
+  TorneiosRoute: TorneiosRoute,
+  VipRoute: VipRoute,
+  JogadorGuestIdRoute: JogadorGuestIdRoute,
+  JogarAmigoRoute: JogarAmigoRoute,
+  JogarDuplasRoute: JogarDuplasRoute,
+  JogarIndexRoute: JogarIndexRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)

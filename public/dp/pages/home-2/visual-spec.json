@@ -1,0 +1,1476 @@
+{
+  "capturedAt": "2026-10-13T21:54:05.781Z",
+  "designTokens": {
+    "colors": [
+      {
+        "count": 15,
+        "value": "oklch(0.27 0.05 250)"
+      },
+      {
+        "count": 11,
+        "value": "oklch(1 0 0)"
+      },
+      {
+        "count": 10,
+        "value": "oklab(0.27 -0.017101 -0.0469846 / 0.7)"
+      },
+      {
+        "count": 1,
+        "value": "oklab(0.72 0.0225743 0.128025 / 0.15)"
+      },
+      {
+        "count": 1,
+        "value": "oklch(0.45 0.08 165)"
+      }
+    ],
+    "fonts": [
+      {
+        "count": 26,
+        "value": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif"
+      }
+    ],
+    "mediaQueries": [
+      "(prefers-reduced-motion: reduce)",
+      "(prefers-contrast: high)",
+      "(hover: none) and (pointer: coarse)",
+      "(max-width: 600px)",
+      "(prefers-reduced-motion)"
+    ]
+  },
+  "document": {
+    "height": 1272,
+    "width": 1585
+  },
+  "elements": [
+    {
+      "classes": [
+        "wood-frame",
+        "mx-3",
+        "mt-3",
+        "rounded-2xl",
+        "px-5",
+        "py-4",
+        "flex",
+        "items-center"
+      ],
+      "id": "",
+      "index": 0,
+      "rect": {
+        "height": 82,
+        "width": 1561,
+        "x": 12,
+        "y": 22
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(1 0 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklch(0.91 0.008 230)",
+        "borderRadius": "20px",
+        "boxShadow": "oklch(0.27 0.05 250 / 0.06) 0px 1px 2px 0px, oklch(0.27 0.05 250 / 0.08) 0px 8px 24px 0px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "justifyContent": "space-between",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "12px",
+          "12px",
+          "0px",
+          "12px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "16px",
+          "20px",
+          "16px",
+          "20px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "header",
+      "text": "DOMINÓ PLAY O dominó brasileiro online Workspace Cota de hoje esgotada"
+    },
+    {
+      "classes": [
+        "size-11",
+        "rounded-xl",
+        "shadow-sm",
+        "ring-1",
+        "ring-border"
+      ],
+      "id": "",
+      "index": 1,
+      "rect": {
+        "height": 44,
+        "width": 44,
+        "x": 33,
+        "y": 41
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklch(0.91 0.008 230) 0px 0px 0px 1px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "block",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "img",
+      "text": ""
+    },
+    {
+      "classes": [
+        "text-2xl",
+        "font-black",
+        "tracking-tight",
+        "text-navy"
+      ],
+      "id": "",
+      "index": 2,
+      "rect": {
+        "height": 32,
+        "width": 166,
+        "x": 89,
+        "y": 39
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "block",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": "900",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "letterSpacing": "-0.6px",
+        "lineHeight": "32px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "h1",
+      "text": "DOMINÓ PLAY"
+    },
+    {
+      "classes": [
+        "flex",
+        "items-center",
+        "gap-1.5",
+        "rounded-full",
+        "border",
+        "border-gold/50",
+        "bg-card",
+        "px-4"
+      ],
+      "id": "",
+      "index": 3,
+      "rect": {
+        "height": 34,
+        "width": 65,
+        "x": 709,
+        "y": 112
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(1 0 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklab(0.72 0.0225743 0.128025 / 0.5)",
+        "borderRadius": "3.35544e+07px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "700",
+        "gap": "6px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "20px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "6px",
+          "16px",
+          "6px",
+          "16px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "a",
+      "text": "0"
+    },
+    {
+      "classes": [
+        "flex",
+        "items-center",
+        "gap-1.5",
+        "rounded-full",
+        "border",
+        "border-primary/40",
+        "bg-card",
+        "px-4"
+      ],
+      "id": "",
+      "index": 4,
+      "rect": {
+        "height": 34,
+        "width": 90,
+        "x": 786,
+        "y": 112
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(1 0 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklab(0.45 -0.0772741 0.0207055 / 0.4)",
+        "borderRadius": "3.35544e+07px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "700",
+        "gap": "6px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "20px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "6px",
+          "16px",
+          "6px",
+          "16px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "a",
+      "text": "1500"
+    },
+    {
+      "classes": [
+        "flex-1",
+        "grid",
+        "w-full",
+        "max-w-md",
+        "md:max-w-3xl",
+        "grid-cols-1",
+        "md:grid-cols-2",
+        "content-center"
+      ],
+      "id": "",
+      "index": 5,
+      "rect": {
+        "height": 989,
+        "width": 768,
+        "x": 409,
+        "y": 146
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "0px",
+        "boxShadow": "none",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "grid",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "12px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "408.5px",
+          "0px",
+          "408.5px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "24px",
+          "16px",
+          "24px",
+          "16px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "main",
+      "text": "Você tem uma partida em andamento Contra o computador JOGAR Contra o computador DUPLAS Você + parceiro × 2 adversários AO VIVO 3 Desafie quem está on-line JOGAR COM AMIGOS Sala pri"
+    },
+    {
+      "classes": [
+        "h-56",
+        "w-full",
+        "object-cover",
+        "md:h-[26rem]",
+        "lg:h-[30rem]",
+        "md:col-span-2",
+        "rounded-2xl",
+        "border"
+      ],
+      "id": "",
+      "index": 6,
+      "rect": {
+        "height": 480,
+        "width": 736,
+        "x": 425,
+        "y": 170
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklch(0.91 0.008 230)",
+        "borderRadius": "20px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "block",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "img",
+      "text": ""
+    },
+    {
+      "classes": [
+        "btn-game",
+        "w-full",
+        "md:col-span-2",
+        "border",
+        "border-gold/50",
+        "bg-gold/15",
+        "text-foreground",
+        "shadow-sm"
+      ],
+      "id": "",
+      "index": 7,
+      "rect": {
+        "height": 60,
+        "width": 736,
+        "x": 425,
+        "y": 662
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklab(0.72 0.0225743 0.128025 / 0.15)",
+        "backgroundImage": "none",
+        "border": "1px solid oklab(0.72 0.0225743 0.128025 / 0.5)",
+        "borderRadius": "16px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "gap": "10px",
+        "justifyContent": "center",
+        "letterSpacing": "normal",
+        "lineHeight": "25.5px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "16px",
+          "24px",
+          "16px",
+          "24px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "a",
+      "text": "Você tem uma partida em andamento Contra o computador"
+    },
+    {
+      "classes": [
+        "btn-game",
+        "w-full",
+        "tracking-wide",
+        "md:col-span-2",
+        "bg-primary",
+        "text-primary-foreground",
+        "shadow-md",
+        "shadow-primary/25"
+      ],
+      "id": "",
+      "index": 8,
+      "rect": {
+        "height": 72,
+        "width": 736,
+        "x": 425,
+        "y": 734
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(0.45 0.08 165)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.45 -0.0772741 0.0207055 / 0.25) 0px 4px 6px -1px, oklab(0.45 -0.0772741 0.0207055 / 0.25) 0px 2px 4px -2px",
+        "color": "oklch(1 0 0)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "gap": "10px",
+        "justifyContent": "center",
+        "letterSpacing": "0.425px",
+        "lineHeight": "25.5px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "16px",
+          "24px",
+          "16px",
+          "24px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "a",
+      "text": "JOGAR Contra o computador"
+    },
+    {
+      "classes": [
+        "btn-game",
+        "w-full",
+        "tracking-wide",
+        "bg-card",
+        "text-foreground",
+        "border",
+        "border-border/80",
+        "shadow-sm"
+      ],
+      "id": "",
+      "index": 9,
+      "rect": {
+        "height": 85,
+        "width": 362,
+        "x": 425,
+        "y": 818
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(1 0 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklab(0.91 -0.0051423 -0.00612836 / 0.8)",
+        "borderRadius": "16px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "gap": "10px",
+        "justifyContent": "center",
+        "letterSpacing": "0.425px",
+        "lineHeight": "25.5px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "16px",
+          "24px",
+          "16px",
+          "24px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "a",
+      "text": "DUPLAS Você + parceiro × 2 adversários"
+    },
+    {
+      "classes": [
+        "btn-game",
+        "w-full",
+        "tracking-wide",
+        "bg-card",
+        "text-foreground",
+        "border",
+        "border-success/50",
+        "shadow-sm"
+      ],
+      "id": "",
+      "index": 10,
+      "rect": {
+        "height": 85,
+        "width": 362,
+        "x": 799,
+        "y": 818
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(1 0 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklab(0.45 -0.0772741 0.0207055 / 0.5)",
+        "borderRadius": "16px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "gap": "10px",
+        "justifyContent": "center",
+        "letterSpacing": "0.425px",
+        "lineHeight": "25.5px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "16px",
+          "24px",
+          "16px",
+          "24px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "a",
+      "text": "AO VIVO 3 Desafie quem está on-line"
+    },
+    {
+      "classes": [
+        "btn-game",
+        "w-full",
+        "tracking-wide",
+        "bg-card",
+        "text-foreground",
+        "border",
+        "border-border/80",
+        "shadow-sm"
+      ],
+      "id": "",
+      "index": 11,
+      "rect": {
+        "height": 111,
+        "width": 362,
+        "x": 425,
+        "y": 915
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(1 0 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklab(0.91 -0.0051423 -0.00612836 / 0.8)",
+        "borderRadius": "16px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "gap": "10px",
+        "justifyContent": "center",
+        "letterSpacing": "0.425px",
+        "lineHeight": "25.5px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "16px",
+          "24px",
+          "16px",
+          "24px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "a",
+      "text": "JOGAR COM AMIGOS Sala privada · 2 ou 4 jogadores"
+    },
+    {
+      "classes": [
+        "btn-game",
+        "w-full",
+        "tracking-wide",
+        "bg-card",
+        "text-foreground",
+        "border",
+        "border-border/80",
+        "shadow-sm"
+      ],
+      "id": "",
+      "index": 12,
+      "rect": {
+        "height": 111,
+        "width": 362,
+        "x": 799,
+        "y": 915
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(1 0 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklab(0.91 -0.0051423 -0.00612836 / 0.8)",
+        "borderRadius": "16px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "gap": "10px",
+        "justifyContent": "center",
+        "letterSpacing": "0.425px",
+        "lineHeight": "25.5px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "16px",
+          "24px",
+          "16px",
+          "24px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "a",
+      "text": "COMPETITIVO Vale ranking · requer conta"
+    },
+    {
+      "classes": [
+        "btn-game",
+        "w-full",
+        "tracking-wide",
+        "bg-card",
+        "text-foreground",
+        "border",
+        "border-border/80",
+        "shadow-sm"
+      ],
+      "id": "",
+      "index": 13,
+      "rect": {
+        "height": 74,
+        "width": 362,
+        "x": 425,
+        "y": 1037
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(1 0 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklab(0.91 -0.0051423 -0.00612836 / 0.8)",
+        "borderRadius": "16px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "gap": "10px",
+        "justifyContent": "center",
+        "letterSpacing": "0.425px",
+        "lineHeight": "25.5px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "16px",
+          "24px",
+          "16px",
+          "24px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "a",
+      "text": "TORNEIOS Exclusivo VIP"
+    },
+    {
+      "classes": [
+        "btn-game",
+        "w-full",
+        "tracking-wide",
+        "bg-card",
+        "text-foreground",
+        "border",
+        "border-border/80",
+        "shadow-sm"
+      ],
+      "id": "",
+      "index": 14,
+      "rect": {
+        "height": 74,
+        "width": 362,
+        "x": 799,
+        "y": 1037
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "oklch(1 0 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklab(0.91 -0.0051423 -0.00612836 / 0.8)",
+        "borderRadius": "16px",
+        "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "gap": "10px",
+        "justifyContent": "center",
+        "letterSpacing": "0.425px",
+        "lineHeight": "25.5px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "16px",
+          "24px",
+          "16px",
+          "24px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "a",
+      "text": "RANKING Ligas Bronze a Lenda"
+    },
+    {
+      "classes": [
+        "wood-frame",
+        "mx-3",
+        "mb-3",
+        "rounded-2xl",
+        "px-2",
+        "py-2",
+        "grid",
+        "grid-cols-5"
+      ],
+      "id": "",
+      "index": 15,
+      "rect": {
+        "height": 125,
+        "width": 1561,
+        "x": 12,
+        "y": 1135
+      },
+      "style": {
+        "alignItems": "normal",
+        "backgroundColor": "oklch(1 0 0)",
+        "backgroundImage": "none",
+        "border": "1px solid oklch(0.91 0.008 230)",
+        "borderRadius": "20px",
+        "boxShadow": "oklch(0.27 0.05 250 / 0.06) 0px 1px 2px 0px, oklch(0.27 0.05 250 / 0.08) 0px 8px 24px 0px",
+        "color": "oklch(0.27 0.05 250)",
+        "display": "grid",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "4px",
+        "justifyContent": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "12px",
+          "12px",
+          "12px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "8px",
+          "8px",
+          "8px",
+          "8px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "nav",
+      "text": "VIP Loja Passe Amigos Clubes 3 Chat ao vivo Histórico Perfil Configurações Ajuda"
+    },
+    {
+      "classes": [
+        "flex",
+        "min-h-11",
+        "flex-col",
+        "items-center",
+        "justify-center",
+        "gap-1.5",
+        "rounded-xl",
+        "py-2"
+      ],
+      "id": "",
+      "index": 16,
+      "rect": {
+        "height": 52,
+        "width": 305,
+        "x": 21,
+        "y": 1144
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "none",
+        "color": "oklab(0.27 -0.017101 -0.0469846 / 0.7)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "6px",
+        "justifyContent": "center",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "8px",
+          "0px",
+          "8px",
+          "0px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "a",
+      "text": "VIP"
+    },
+    {
+      "classes": [
+        "flex",
+        "min-h-11",
+        "flex-col",
+        "items-center",
+        "justify-center",
+        "gap-1.5",
+        "rounded-xl",
+        "py-2"
+      ],
+      "id": "",
+      "index": 17,
+      "rect": {
+        "height": 52,
+        "width": 305,
+        "x": 330,
+        "y": 1144
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "none",
+        "color": "oklab(0.27 -0.017101 -0.0469846 / 0.7)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "6px",
+        "justifyContent": "center",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "8px",
+          "0px",
+          "8px",
+          "0px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "a",
+      "text": "Loja"
+    },
+    {
+      "classes": [
+        "flex",
+        "min-h-11",
+        "flex-col",
+        "items-center",
+        "justify-center",
+        "gap-1.5",
+        "rounded-xl",
+        "py-2"
+      ],
+      "id": "",
+      "index": 18,
+      "rect": {
+        "height": 52,
+        "width": 305,
+        "x": 640,
+        "y": 1144
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "none",
+        "color": "oklab(0.27 -0.017101 -0.0469846 / 0.7)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "6px",
+        "justifyContent": "center",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "8px",
+          "0px",
+          "8px",
+          "0px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "a",
+      "text": "Passe"
+    },
+    {
+      "classes": [
+        "flex",
+        "min-h-11",
+        "flex-col",
+        "items-center",
+        "justify-center",
+        "gap-1.5",
+        "rounded-xl",
+        "py-2"
+      ],
+      "id": "",
+      "index": 19,
+      "rect": {
+        "height": 52,
+        "width": 305,
+        "x": 949,
+        "y": 1144
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "none",
+        "color": "oklab(0.27 -0.017101 -0.0469846 / 0.7)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "6px",
+        "justifyContent": "center",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "8px",
+          "0px",
+          "8px",
+          "0px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "a",
+      "text": "Amigos"
+    },
+    {
+      "classes": [
+        "flex",
+        "min-h-11",
+        "flex-col",
+        "items-center",
+        "justify-center",
+        "gap-1.5",
+        "rounded-xl",
+        "py-2"
+      ],
+      "id": "",
+      "index": 20,
+      "rect": {
+        "height": 52,
+        "width": 305,
+        "x": 1259,
+        "y": 1144
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "none",
+        "color": "oklab(0.27 -0.017101 -0.0469846 / 0.7)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "6px",
+        "justifyContent": "center",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "8px",
+          "0px",
+          "8px",
+          "0px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "a",
+      "text": "Clubes"
+    },
+    {
+      "classes": [
+        "flex",
+        "min-h-11",
+        "flex-col",
+        "items-center",
+        "justify-center",
+        "gap-1.5",
+        "rounded-xl",
+        "py-2"
+      ],
+      "id": "",
+      "index": 21,
+      "rect": {
+        "height": 52,
+        "width": 305,
+        "x": 21,
+        "y": 1200
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "none",
+        "color": "oklab(0.27 -0.017101 -0.0469846 / 0.7)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "6px",
+        "justifyContent": "center",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "8px",
+          "0px",
+          "8px",
+          "0px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "a",
+      "text": "3 Chat ao vivo"
+    },
+    {
+      "classes": [
+        "flex",
+        "min-h-11",
+        "flex-col",
+        "items-center",
+        "justify-center",
+        "gap-1.5",
+        "rounded-xl",
+        "py-2"
+      ],
+      "id": "",
+      "index": 22,
+      "rect": {
+        "height": 52,
+        "width": 305,
+        "x": 330,
+        "y": 1200
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "none",
+        "color": "oklab(0.27 -0.017101 -0.0469846 / 0.7)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "6px",
+        "justifyContent": "center",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "8px",
+          "0px",
+          "8px",
+          "0px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "a",
+      "text": "Histórico"
+    },
+    {
+      "classes": [
+        "flex",
+        "min-h-11",
+        "flex-col",
+        "items-center",
+        "justify-center",
+        "gap-1.5",
+        "rounded-xl",
+        "py-2"
+      ],
+      "id": "",
+      "index": 23,
+      "rect": {
+        "height": 52,
+        "width": 305,
+        "x": 640,
+        "y": 1200
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "none",
+        "color": "oklab(0.27 -0.017101 -0.0469846 / 0.7)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "6px",
+        "justifyContent": "center",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "8px",
+          "0px",
+          "8px",
+          "0px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "a",
+      "text": "Perfil"
+    },
+    {
+      "classes": [
+        "flex",
+        "min-h-11",
+        "flex-col",
+        "items-center",
+        "justify-center",
+        "gap-1.5",
+        "rounded-xl",
+        "py-2"
+      ],
+      "id": "",
+      "index": 24,
+      "rect": {
+        "height": 52,
+        "width": 305,
+        "x": 949,
+        "y": 1200
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "none",
+        "color": "oklab(0.27 -0.017101 -0.0469846 / 0.7)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "6px",
+        "justifyContent": "center",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "8px",
+          "0px",
+          "8px",
+          "0px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "a",
+      "text": "Configurações"
+    },
+    {
+      "classes": [
+        "flex",
+        "min-h-11",
+        "flex-col",
+        "items-center",
+        "justify-center",
+        "gap-1.5",
+        "rounded-xl",
+        "py-2"
+      ],
+      "id": "",
+      "index": 25,
+      "rect": {
+        "height": 52,
+        "width": 305,
+        "x": 1259,
+        "y": 1200
+      },
+      "style": {
+        "alignItems": "center",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "border": "0px solid oklch(0.91 0.008 230)",
+        "borderRadius": "16px",
+        "boxShadow": "none",
+        "color": "oklab(0.27 -0.017101 -0.0469846 / 0.7)",
+        "display": "flex",
+        "fontFamily": "Inter, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "6px",
+        "justifyContent": "center",
+        "letterSpacing": "normal",
+        "lineHeight": "24px",
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "opacity": "1",
+        "padding": [
+          "8px",
+          "0px",
+          "8px",
+          "0px"
+        ],
+        "position": "static",
+        "transform": "none",
+        "zIndex": "auto"
+      },
+      "tag": "a",
+      "text": "Ajuda"
+    }
+  ],
+  "title": "DOMINÓ PLAY — Dominó online brasileiro",
+  "url": "https://dominoplay.lovable.app/",
+  "viewport": {
+    "dpr": 1,
+    "height": 765,
+    "width": 1600
+  }
+}
